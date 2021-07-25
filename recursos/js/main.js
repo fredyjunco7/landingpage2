@@ -1,3 +1,10 @@
+/*====================================== LOADER ==================================================*/ 
+
+let container = document.getElementById("container_loader");
+setTimeout(function() {
+    container.classList.add("cerrar");
+}, 5000);
+
 /*====================================== MENU SHOW ==================================================*/ 
 const showMenu = (toggleId, navId) =>{
     const toggle = document.getElementById(toggleId),
