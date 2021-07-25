@@ -787,7 +787,7 @@ img{
     font-size: 45px;
     font-family: var(--fontfamily-titles);
     font-weight: 600;
-    color: var(--color-oro);
+    color: var(--color-h1);
     z-index: 2;
 }
 .textos_parallax em {
@@ -1649,7 +1649,7 @@ img{
     font-size: 40px;
     font-family: var(--fontfamily-titles);
     font-weight: 600;
-    color: var(--color-oro);
+    color: var(--color-h1);
     z-index: 2;
 }
 .textos_parallax em {
@@ -2208,7 +2208,7 @@ img{
     font-size: 35px;
     font-family: var(--fontfamily-titles);
     font-weight: 600;
-    color: var(--color-texto);
+    color: var(--color-h1);
     z-index: 2;
 }
 .textos_parallax em {
@@ -2769,7 +2769,7 @@ img{
     font-size: 30px;
     font-family: var(--fontfamily-titles);
     font-weight: 600;
-    color: var(--color-oro);
+    color: var(--color-h1);
     z-index: 2;
 }
 .textos_parallax em {
@@ -3332,7 +3332,7 @@ img{
     font-size: 25px;
     font-family: var(--fontfamily-titles);
     font-weight: 600;
-    color: var(--color-oro);
+    color: var(--color-h1);
     z-index: 2;
 }
 .textos_parallax em {
