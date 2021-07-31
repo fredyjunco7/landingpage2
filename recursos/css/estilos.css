@@ -94,8 +94,8 @@ img{
     clip-path: circle(150% at 100% 0);
 }
 .container_loader img {
-    width: 50px;
-    height: 50px;
+    width: 45px;
+    height: 45px;
     animation: load 1.2s linear infinite;
 }
 .container_loader p {
@@ -476,7 +476,7 @@ img{
     justify-content: space-between;
 }
 .contenedor-conoceme img {
-    width: 45%;
+    width: 37%;
 }
 .contenedor-conoceme .conoceme_textos {
     width: 50%;
@@ -760,6 +760,9 @@ img{
      width: 100%;
      background-image: url(../imagenes/parallax3.jpg);
      background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+    object-fit: cover;
  }
  .overlay_test .img_test {
      width: 100%;
@@ -1434,7 +1437,7 @@ img{
     justify-content: space-evenly;
 }
 .contenedor-conoceme img {
-    width: 50%;
+    width: 35%;
 }
 .contenedor-conoceme .conoceme_textos {
     width: 50%;
@@ -1624,6 +1627,8 @@ img{
     width: 100%;
     background-image: url(../imagenes/parallax3.jpg);
     background-position: center;
+    background-size: cover;
+    object-fit: cover;
 }
 .overlay_test .img_test {
     width: 100%;
@@ -1650,7 +1655,7 @@ img{
    z-index: 10;
 }
 .testimonio__card .recomendacion {
-   width: 60%;
+   width: 75%;
    text-align: center;
    letter-spacing: .5px;
    line-height: 22px;
@@ -1989,7 +1994,7 @@ img{
     align-items: center;
 }
 .contenedor-conoceme img {
-    width: 50%;
+    width: 40%;
 }
 .contenedor-conoceme .conoceme_textos {
     width: 90%;
@@ -2182,7 +2187,9 @@ img{
  .overlay_test {
     width: 100%;
     background-image: url(../imagenes/parallax3.jpg);
-    background-position: center;
+    background-position: left;
+    background-size: cover;
+    object-fit: cover;
 }
 .overlay_test .img_test {
     width: 100%;
@@ -2209,7 +2216,7 @@ img{
    z-index: 10;
 }
 .testimonio__card .recomendacion {
-   width: 60%;
+   width: 75%;
    text-align: center;
    letter-spacing: .5px;
    line-height: 22px;
@@ -2389,7 +2396,7 @@ img{
     clip-path: circle(150% at 100% 0);
 }
 .container_loader img {
-    width: 50px;
+    width: 40px;
     height: 40px;
     animation: load 1.2s linear infinite;
 }
@@ -2597,7 +2604,7 @@ img{
     align-items: center;
 }
 .contenedor-conoceme img {
-    width: 60%;
+    width: 45%;
 }
 .contenedor-conoceme .conoceme_textos {
     width: 90%;
@@ -2789,7 +2796,10 @@ img{
  .overlay_test {
     width: 100%;
     background-image: url(../imagenes/parallax3.jpg);
-    background-position: center;
+    background-position: left;
+    background-size: cover;
+    object-fit: cover;
+
 }
 .overlay_test .img_test {
     width: 100%;
@@ -3159,11 +3169,11 @@ img{
     align-items: center;
 }
 .contenedor-conoceme img {
-    width: 70%;
+    width: 57%;
 }
 .contenedor-conoceme .conoceme_textos {
     width: 100%;
-    margin-top: 40px;
+    margin-top: 35px;
 }
 .conoceme_textos .informacion {
     display: flex;
@@ -3351,7 +3361,9 @@ img{
  .overlay_test {
     width: 100%;
     background-image: url(../imagenes/parallax3.jpg);
-    background-position: center;
+    background-position: left;
+    background-size: cover;
+    object-fit: cover;
 }
 .overlay_test .img_test {
     width: 100%;
