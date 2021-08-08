@@ -1260,6 +1260,23 @@ img{
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 /*===========================================  RESPONSIVE  ==========================================================*/
 
 
@@ -1391,18 +1408,18 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 5px;
+    margin-top: 2px;
 }
 .logo_title .line {
     display: inline;
     width: 170px;
-    height: 2px;
+    height: 1.5px;
     background-color: var(--color-verde);
 }
 .logo_title img {
     margin: 0 25px;
-    width: 27px;
-    height: 27px;
+    width: 25px;
+    height: 25px;
 }
 .title h3 {
     font-size: 28px;
@@ -1498,6 +1515,7 @@ img{
     justify-content: center;
     font-family: var(--fontfamily-titles);
     color: var(--color-texto);
+    font-weight: 400;
 }
 .textos_servicios .servicios_descripcion {
     width: 90%;
@@ -1810,6 +1828,22 @@ img{
 
 
 
+/*=========================================================================================
+==============================================================================================
+============================================================================================
+=========================================================================================
+==============================================================================================
+============================================================================================
+=========================================================================================
+==============================================================================================
+============================================================================================
+=========================================================================================
+==============================================================================================
+============================================================================================*/
+
+
+
+
 
 
 @media (max-width: 800px) {
@@ -1948,12 +1982,12 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 5px;
+    margin-top: 3px;
 }
 .logo_title .line {
     display: inline;
     width: 160px;
-    height: 2px;
+    height: 1px;
     background-color: var(--color-verde);
 }
 .logo_title img {
@@ -1972,7 +2006,7 @@ img{
     color: var(--color-texto);
     font-weight: 200;
     font-family: var(--fontfamily-texto);
-    margin-top: 25px;
+    margin-top: 22px;
     text-align: center;
     width: 70%;
 }
@@ -2058,6 +2092,7 @@ img{
     justify-content: center;
     font-family: var(--fontfamily-titles);
     color: var(--color-texto);
+    font-weight: 400;
 }
 .textos_servicios .servicios_descripcion {
     width: 90%;
@@ -2375,6 +2410,20 @@ img{
 
 
 
+/*=========================================================================================
+==============================================================================================
+============================================================================================
+=========================================================================================
+==============================================================================================
+============================================================================================
+=========================================================================================
+==============================================================================================
+============================================================================================
+=========================================================================================
+==============================================================================================
+============================================================================================*/
+
+
 
 
 @media (max-width: 600px) {
@@ -2398,7 +2447,7 @@ img{
 .container_loader img {
     width: 40px;
     height: 40px;
-    animation: load 1.2s linear infinite;
+    animation: load 1s linear infinite;
 }
 .container_loader p {
     color: black;
@@ -2558,12 +2607,12 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 5px;
+    margin-top: 3px;
 }
 .logo_title .line {
     display: inline;
     width: 120px;
-    height: 2px;
+    height: 1px;
     background-color: var(--color-verde);
 }
 .logo_title img {
@@ -2582,7 +2631,7 @@ img{
     color: var(--color-texto);
     font-weight: 200;
     font-family: var(--fontfamily-texto);
-    margin-top: 25px;
+    margin-top: 20px;
     text-align: center;
     width: 90%;
 }
@@ -2668,6 +2717,7 @@ img{
     justify-content: center;
     font-family: var(--fontfamily-titles);
     color: var(--color-texto);
+    font-weight: 400;
 }
 .textos_servicios .servicios_descripcion {
     width: 90%;
@@ -2683,8 +2733,8 @@ img{
     font-weight: 300;
 }
 .textos_servicios .servicios_descripcion img {
-    width: 25px;
-    height: 25px;
+    width: 23px;
+    height: 23px;
 }
 .textos_servicios .servicios_descripcion p {
     margin-left: 20px;
@@ -2985,6 +3035,19 @@ img{
 
 
 
+/*=========================================================================================
+==============================================================================================
+============================================================================================
+=========================================================================================
+==============================================================================================
+============================================================================================
+=========================================================================================
+==============================================================================================
+============================================================================================
+=========================================================================================
+==============================================================================================
+============================================================================================*/
+
 
 
 @media (max-width: 450px) {
@@ -3123,18 +3186,18 @@ img{
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-top: 5px;
+    margin-top: 3px;
 }
 .logo_title .line {
     display: inline;
     width: 75px;
-    height: 2px;
+    height: 1px;
     background-color: var(--color-verde);
 }
 .logo_title img {
     margin: 0 15px;
-    width: 25px;
-    height: 25px;
+    width: 26px;
+    height: 26px;
 }
 .title h3 {
     font-size: 23px;
@@ -3233,6 +3296,7 @@ img{
     justify-content: center;
     font-family: var(--fontfamily-titles);
     color: var(--color-texto);
+    font-weight: 400;
 }
 .textos_servicios .servicios_descripcion {
     width: 90%;
@@ -3247,8 +3311,8 @@ img{
     font-weight: 300;
 }
 .textos_servicios .servicios_descripcion img {
-    width: 25px;
-    height: 25px;
+    width: 22px;
+    height: 22px;
 }
 .textos_servicios .servicios_descripcion p {
     margin-left: 20px;
@@ -3421,7 +3485,7 @@ img{
 
 .parallax {
     width: 100%;
-    height: 280px;
+    height: 300px;
     background-image: url(../imagenes/parallax2.jpg);
     background-position: center;
     background-repeat: no-repeat;
